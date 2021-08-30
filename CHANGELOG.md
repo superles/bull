@@ -1,3 +1,38 @@
+## [3.29.1](https://github.com/OptimalBits/bull/compare/v3.29.0...v3.29.1) (2021-08-26)
+
+
+### Bug Fixes
+
+* protect getJob with isReady, fixes [#1386](https://github.com/OptimalBits/bull/issues/1386) ([2f27faa](https://github.com/OptimalBits/bull/commit/2f27faa410f70504f24df2ebd6bb7831df21660d))
+
+# [3.29.0](https://github.com/OptimalBits/bull/compare/v3.28.1...v3.29.0) (2021-08-20)
+
+
+### Features
+
+* **jobs:** add extendLock method ([30d5959](https://github.com/OptimalBits/bull/commit/30d59590c34cb664e3b9a62695c4092c9b1ae3f3))
+
+## [3.28.1](https://github.com/OptimalBits/bull/compare/v3.28.0...v3.28.1) (2021-08-06)
+
+
+### Bug Fixes
+
+* **queue:** changed user prop to username for redisOptions ([71baea9](https://github.com/OptimalBits/bull/commit/71baea91de702d9bd1d5516f09b22599b7f13045))
+
+# [3.28.0](https://github.com/OptimalBits/bull/compare/v3.27.0...v3.28.0) (2021-08-05)
+
+
+### Features
+
+* **queue:** handle redis url containing username ([a245fc4](https://github.com/OptimalBits/bull/commit/a245fc403827fd22b08dbe1499fe843eb1ad633a))
+
+# [3.27.0](https://github.com/OptimalBits/bull/compare/v3.26.0...v3.27.0) (2021-07-27)
+
+
+### Features
+
+* support job.discard function in sandboxed processors ([5adcf2c](https://github.com/OptimalBits/bull/commit/5adcf2ceed263d46089cceefcdcaa658151c53b7))
+
 # [3.26.0](https://github.com/OptimalBits/bull/compare/v3.25.2...v3.26.0) (2021-07-16)
 
 
